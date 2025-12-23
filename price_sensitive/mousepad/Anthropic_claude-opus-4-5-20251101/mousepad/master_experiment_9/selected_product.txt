@@ -1,0 +1,6 @@
+{
+  "product_title": "MROCO Ergonomic Mouse Pad with Gel Wrist Rest, Comfortable Mousepad with Smooth Wrist Support Surface and Non-Slip PU Base for Pain Relief",
+  "price": 8.49,
+  "rating": 4.6,
+  "number_of_reviews": 29052
+}

@@ -1,0 +1,6 @@
+{
+  "product_title": "TORCHSTAR Metal Desk Lamp with Clamp, Swing Arm, Architect Adjustable Gooseneck Table Lamp, Clip Desk Lights for Home Office, Work, Study,",
+  "price": 18.99,
+  "rating": 4.3,
+  "number_of_reviews": 8430
+}

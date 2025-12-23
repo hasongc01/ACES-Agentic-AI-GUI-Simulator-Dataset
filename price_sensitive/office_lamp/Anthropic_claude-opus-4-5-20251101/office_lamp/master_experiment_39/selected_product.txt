@@ -1,0 +1,6 @@
+{
+  "product_title": "ROTTOGOON Floor Lamp for Living Room with 3 Color Temperatures LED Bulb, Standing Lamp Tall Industrial Floor Lamp Reading for Bedroom, Offi...",
+  "price": 29.99,
+  "rating": 4.5,
+  "number_of_reviews": 11241
+}

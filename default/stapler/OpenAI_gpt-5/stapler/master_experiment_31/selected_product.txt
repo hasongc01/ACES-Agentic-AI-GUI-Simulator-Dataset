@@ -1,0 +1,6 @@
+{
+  "product_title": "Bostitch Office Stapler, No-Jam Premium for Desktop, Includes 1,250 Staples, Full-Strip, 25 Sheet Capacity, Black",
+  "price": 6.99,
+  "rating": 4.7,
+  "number_of_reviews": 713
+}

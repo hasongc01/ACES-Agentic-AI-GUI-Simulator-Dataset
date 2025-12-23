@@ -1,0 +1,6 @@
+{
+  "product_title": "Cottonelle Ultra Clean Toilet Paper with Active CleaningRipples Texture, Strong Bath Tissue, 24 Family Mega Rolls = 132 Regular Rolls (4 Packs of 6)",
+  "price": 27.59,
+  "rating": 4.7,
+  "number_of_reviews": 106378
+}

@@ -1,0 +1,6 @@
+{
+  "product_title": "Logitech G240 Cloth Gaming Mouse Pad, Optimized for Gaming Sensors, Moderate Surface Friction, Non-Slip Mouse Mat - Black",
+  "price": 7.99,
+  "rating": 4.6,
+  "number_of_reviews": 2774
+}

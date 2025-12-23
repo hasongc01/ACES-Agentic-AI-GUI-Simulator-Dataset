@@ -1,0 +1,6 @@
+{
+  "product_title": "Sensodyne Pronamel Fresh Breath Enamel Toothpaste for Sensitive Teeth and Cavity Protection, Fresh Wave - 4 oz (4 Pack)",
+  "price": 24.96,
+  "rating": 4.8,
+  "number_of_reviews": 11689
+}

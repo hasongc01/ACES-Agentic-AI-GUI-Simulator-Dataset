@@ -1,0 +1,6 @@
+{
+  "product_title": "Fitbit Inspire 3 Health &-Fitness-Tracker with Stress Management, Workout Intensity, Sleep Tracking, 24/7 Heart Rate and more, Midnight...",
+  "price": 79.95,
+  "rating": 4.3,
+  "number_of_reviews": 18574
+}

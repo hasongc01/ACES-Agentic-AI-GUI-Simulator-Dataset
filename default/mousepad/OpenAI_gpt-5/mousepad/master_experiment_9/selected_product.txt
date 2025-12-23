@@ -1,0 +1,6 @@
+{
+  "product_title": "Amazon Basics Irregular Ergonomic Gel Computer Mouse Pad with Wrist Rest for Pain Relief, 10.1 L x 8.1 W inches, Black",
+  "price": 9.71,
+  "rating": 4.6,
+  "number_of_reviews": 33033
+}

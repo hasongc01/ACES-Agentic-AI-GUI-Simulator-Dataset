@@ -1,0 +1,17 @@
+{
+  "text": "",
+  "tool_calls": [
+    {
+      "name": "add_to_cart",
+      "args": {
+        "product_title": "Angel Soft Toilet Paper, 16 Mega Rolls = 64 Regular Rolls, Soft and Strong Toilet Tissue",
+        "price": 12.49,
+        "rating": 4.7,
+        "number_of_reviews": 68132
+      },
+      "id": "call_SGGjyb49M1qHsEwqWuf3yBVL",
+      "type": "tool_call"
+    }
+  ],
+  "content": ""
+}

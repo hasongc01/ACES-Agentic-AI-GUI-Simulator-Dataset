@@ -1,0 +1,6 @@
+{
+  "product_title": "Fitbit Versa 4 Fitness Smartwatch with Daily Readiness, GPS, 24/7 Heart Rate, 40+ Exercise Modes, Sleep Tracking and more, Waterfall Blue/Platinum, On...",
+  "price": 149.95,
+  "rating": 4.3,
+  "number_of_reviews": 14803
+}

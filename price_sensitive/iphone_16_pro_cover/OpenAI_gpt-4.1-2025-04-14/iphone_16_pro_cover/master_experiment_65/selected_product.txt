@@ -1,0 +1,6 @@
+{
+  "product_title": "SUPFINE Magnetic for iPhone 16 Pro Case (Compatible with MagSafe) (Military Grade Drop Protection) Slim Translucent Matte Shockproof with…",
+  "price": 7.99,
+  "rating": 4.5,
+  "number_of_reviews": 15055
+}

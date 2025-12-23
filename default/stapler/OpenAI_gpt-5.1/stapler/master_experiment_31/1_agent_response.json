@@ -1,0 +1,17 @@
+{
+  "text": "",
+  "tool_calls": [
+    {
+      "name": "add_to_cart",
+      "args": {
+        "product_title": "Amazon Basics Stapler with 1000 Staples, Office Stapler, Non-Slip, Black",
+        "price": 6.73,
+        "rating": 4.6,
+        "number_of_reviews": 51765
+      },
+      "id": "call_EwPY3kM4lQAenYj5h1KcIx3S",
+      "type": "tool_call"
+    }
+  ],
+  "content": ""
+}

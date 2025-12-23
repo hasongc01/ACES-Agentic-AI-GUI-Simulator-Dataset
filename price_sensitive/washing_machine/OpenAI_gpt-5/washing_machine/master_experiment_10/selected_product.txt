@@ -1,0 +1,6 @@
+{
+  "product_title": "Auertech Portable Washing Machine, 28lbs Twin Tub Washer Mini Compact Laundry Machine with Drain Pump, Semi-automatic 18lbs Washer 10lbs...",
+  "price": 179.99,
+  "rating": 4.2,
+  "number_of_reviews": 3054
+}

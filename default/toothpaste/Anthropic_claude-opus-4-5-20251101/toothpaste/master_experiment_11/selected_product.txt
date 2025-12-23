@@ -1,0 +1,6 @@
+{
+  "product_title": "Aquafresh Cavity Protection Fluoride Toothpaste for Healthy Gums, Strong Teeth, and Fresh Breath, Cool Mint, 5.6 oz",
+  "price": 2.8,
+  "rating": 4.7,
+  "number_of_reviews": 10827
+}

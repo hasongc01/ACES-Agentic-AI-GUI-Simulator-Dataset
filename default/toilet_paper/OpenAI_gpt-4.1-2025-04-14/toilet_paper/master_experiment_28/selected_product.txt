@@ -1,0 +1,6 @@
+{
+  "product_title": "Charmin Ultra Soft Cushiony Touch Toilet Paper, 24 Family Mega Rolls = 123 Regular Rolls",
+  "price": 35.49,
+  "rating": 4.8,
+  "number_of_reviews": 110017
+}

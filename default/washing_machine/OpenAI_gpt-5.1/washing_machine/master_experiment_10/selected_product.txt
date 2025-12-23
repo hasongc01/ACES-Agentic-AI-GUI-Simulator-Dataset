@@ -1,0 +1,6 @@
+{
+  "product_title": "BLACK+DECKER 0.9 Cu. Ft. Portable Washer, 6.6 lb. Capacity Washing Machine for Homes & Apartments, 5 Wash Cycles, Quick Connect Sink",
+  "price": 259.99,
+  "rating": 4.4,
+  "number_of_reviews": 7932
+}

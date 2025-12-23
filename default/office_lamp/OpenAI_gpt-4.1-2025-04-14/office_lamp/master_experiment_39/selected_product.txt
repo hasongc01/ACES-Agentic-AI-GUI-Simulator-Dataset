@@ -1,0 +1,6 @@
+{
+  "product_title": "SUNMORY Floor Lamps for Living Room, 32W/3000LM Super Bright LED Floor Lamp with Remote Control, 69” Tall Standing Lamp with Stepless Color Temperature",
+  "price": 39.99,
+  "rating": 4.8,
+  "number_of_reviews": 1184
+}

@@ -1,0 +1,6 @@
+{
+  "product_title": "Smart Watch(Answer/Make Call), 1.91\" Smartwatch for Men Women, New Fitness Watch with 110+ Sport Modes, Fitness Activity Tracke with...",
+  "price": 24.99,
+  "rating": 4.9,
+  "number_of_reviews": 563
+}

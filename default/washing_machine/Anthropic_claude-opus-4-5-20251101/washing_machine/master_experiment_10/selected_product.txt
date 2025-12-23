@@ -1,0 +1,6 @@
+{
+  "product_title": "Kenmore 4.5 cu. ft. Top Load Washer with Triple Action Impeller for Tough Dirt & Stains-Reduce Laundry Time with Accela and Express Wash-LED, White",
+  "price": 854.99,
+  "rating": 4.6,
+  "number_of_reviews": 19
+}

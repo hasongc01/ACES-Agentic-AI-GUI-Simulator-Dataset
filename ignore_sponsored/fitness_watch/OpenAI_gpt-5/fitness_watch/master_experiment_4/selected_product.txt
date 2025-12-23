@@ -1,0 +1,6 @@
+{
+  "product_title": "Garmin vívoactive 5, Health and Fitness GPS Smartwatch, AMOLED Display, Up to 11 Days of Battery, Black",
+  "price": 220.89,
+  "rating": 4.4,
+  "number_of_reviews": 5567
+}

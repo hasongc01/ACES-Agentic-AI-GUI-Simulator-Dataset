@@ -1,0 +1,6 @@
+{
+  "product_title": "Garmin Forerunner 55, GPS Running Watch with Daily Suggested Workouts, Up to 2 weeks of Battery Life, Black - 010-02562-00",
+  "price": 166.4,
+  "rating": 4.6,
+  "number_of_reviews": 4241
+}

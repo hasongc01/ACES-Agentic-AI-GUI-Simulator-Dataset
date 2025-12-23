@@ -1,0 +1,6 @@
+{
+  "product_title": "Colgate Optic White Advanced Hydrogen Peroxide Toothpaste, Teeth Whitening Toothpaste Pack, Enamel-Safe Formula, Helps Remove Tea, Coffee, and Wine Stains, 3 Pack",
+  "price": 12.96,
+  "rating": 4.7,
+  "number_of_reviews": 47933
+}
